@@ -1,0 +1,6 @@
+{
+  "name": "Osm-model",
+  "tagline": "Open street map data model",
+  "body": "Open street map data model. It's a prerequisite for other OSM projects.\r\nIf you like, you can donate via https://www.paypal.me/5ko.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
